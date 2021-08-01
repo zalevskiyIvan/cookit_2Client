@@ -1,0 +1,24 @@
+.main {
+  height: 100vh;
+  background: linear-gradient(167.97deg, #8e2de2 0%, #4a00e0 100%);
+  padding-bottom: 2%;
+}
+.header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  z-index: 100;
+}
+.content {
+  flex: 1 0 auto;
+  padding-bottom: 80px;
+  padding-top: 47%;
+  background: linear-gradient(167.97deg, #8e2de2 0%, #4a00e0 100%);
+}
+.footer {
+  position: fixed;
+  left: 0px;
+  bottom: 0px;
+  height: 63px;
+  width: 100%;
+}
